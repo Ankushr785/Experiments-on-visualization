@@ -1,0 +1,101 @@
+Dish,Curry,Spice,State Cuisine
+1,21,5,Punjab
+2,17,23,South India
+3,2,16,South India
+4,22,7,U.P.
+5,15,20,South India
+6,21,8,South India
+7,5,10,Haryana
+8,10,16,Maharashtra
+9,15,7,Haryana
+10,15,20,Punjab
+11,9,3,Punjab
+12,1,23,J&K
+13,12,9,U.P.
+14,6,6,South India
+15,5,4,Haryana
+16,23,5,Maharashtra
+17,1,17,Haryana
+18,22,17,J&K
+19,21,9,South India
+20,12,5,Maharashtra
+21,6,6,Haryana
+22,23,1,U.P.
+23,16,15,South India
+24,4,12,Maharashtra
+25,16,4,Maharashtra
+26,23,6,South India
+27,2,18,J&K
+28,18,17,Haryana
+29,22,2,J&K
+30,5,20,Maharashtra
+31,8,5,U.P.
+32,2,3,Maharashtra
+33,1,13,Maharashtra
+34,24,24,U.P.
+35,8,12,South India
+36,11,1,South India
+37,11,13,Maharashtra
+38,3,23,Haryana
+39,22,8,J&K
+40,1,10,South India
+41,23,12,Punjab
+42,20,6,South India
+43,5,2,U.P.
+44,4,10,J&K
+45,21,11,South India
+46,19,22,J&K
+47,15,17,Maharashtra
+48,8,10,Maharashtra
+49,20,23,U.P.
+50,7,14,Maharashtra
+51,4,22,Haryana
+52,21,15,Maharashtra
+53,22,19,Punjab
+54,12,3,Haryana
+55,6,3,South India
+56,1,10,Punjab
+57,18,14,Punjab
+58,11,23,Haryana
+59,20,10,Punjab
+60,20,12,U.P.
+61,16,6,South India
+62,9,1,Haryana
+63,14,18,Haryana
+64,24,8,J&K
+65,4,9,J&K
+66,17,4,J&K
+67,5,4,Punjab
+68,24,14,Haryana
+69,23,14,Haryana
+70,20,22,Punjab
+71,9,21,Maharashtra
+72,6,17,Maharashtra
+73,6,6,Haryana
+74,21,10,South India
+75,5,18,Haryana
+76,7,9,J&K
+77,14,10,J&K
+78,15,3,South India
+79,24,1,Maharashtra
+80,7,22,U.P.
+81,9,19,J&K
+82,17,7,U.P.
+83,20,18,Maharashtra
+84,19,14,Punjab
+85,12,1,U.P.
+86,18,20,Maharashtra
+87,10,17,South India
+88,24,2,U.P.
+89,13,8,Maharashtra
+90,7,17,Punjab
+91,9,4,Haryana
+92,2,16,Haryana
+93,11,6,Punjab
+94,12,15,Haryana
+95,1,13,U.P.
+96,24,21,Haryana
+97,21,19,Punjab
+98,17,15,J&K
+99,16,9,Haryana
+100,16,17,South India
